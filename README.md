@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as a QA Analist
+- 🔭 I’m currently working as a Software Developer
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: she/her
 
